@@ -15,7 +15,7 @@
 
 课程对应的笔记内容链接
 =====================
-https://nbviewer.jupyter.org/github/zlotus/notes-LSJU-machine-learning/tree/master/
+https://nbviewer.jupyter.org/github/zlotus/notes-LSJU-machine-learning/blob/master/ReadMe.ipynb
 
 如果要收藏下载的话，就可以通过百度云链接
 =====================================  
