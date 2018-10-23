@@ -13,6 +13,10 @@
 主要成就    人工智能和机器学习领域国际最权威学者之一 
 博士导师    Michael I. Jordan  
 
+课程对应的笔记内容链接
+=====================
+https://nbviewer.jupyter.org/github/zlotus/notes-LSJU-machine-learning/tree/master/
+
 如果要收藏下载的话，就可以通过百度云链接
 =====================================  
 
